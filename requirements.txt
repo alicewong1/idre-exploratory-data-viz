@@ -7,3 +7,4 @@ pandas
 altair
 vega_datasets
 altair_latimes
+plotly
