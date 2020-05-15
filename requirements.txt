@@ -1,0 +1,9 @@
+matplotlib
+numpy
+seaborn
+sklearn
+ipywidgets
+pandas
+altair
+vega_datasets
+altair_latimes
